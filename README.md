@@ -1,2 +1,6 @@
-# hw10
-My repository for hw10 to push code to the Azure App Service
+# Cloud Computing
+### HW10 - Azure Solutions
+
+This application runs in an Azure Services and reads from an Azure MySQL server.
+The application uses Azure Key Vault to store database connection usernames and passwords.
+
